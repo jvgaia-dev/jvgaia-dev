@@ -63,11 +63,11 @@ Me chamo João Gaia, tenho 21 anos e sou natural do Pará. Sejam bem-vindos ao m
   <img 
     alt="GitHub Stats" 
     height="150" 
-    src="https://github-readme-stats.vercel.app/api?username=jvgaia-dev&show_icons=true&theme=dark&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=jvgaia-dev&show_icons=true&theme=merko&include_all_commits=true" 
   />
   <img 
     alt="GitHub Top Langs" 
     height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvgaia-dev&theme=dark" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvgaia-dev&theme=merko" 
   />
 </p>
