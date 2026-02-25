@@ -65,17 +65,4 @@ Me chamo João Victor, tenho 21 anos e sou natural do Pará. Sejam bem-vindos ao
 <br/>
 <br/>
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="150" 
-    src="https://github-readme-stats.vercel.app/api?username=jvgaia-dev&show_icons=true&theme=dark&include_all_commits=true" 
-  />
-  <img 
-    alt="GitHub Top Langs" 
-    height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvgaia-dev&theme=dark" 
-  />
-</p>
