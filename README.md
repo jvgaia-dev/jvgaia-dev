@@ -68,11 +68,11 @@ Me chamo João Victor, tenho 21 anos e sou natural do Pará. Sejam bem-vindos ao
 ## 📫 Onde me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/jvgaia/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="mailto:SEUEMAIL@EMAIL.COM">
+  <a href="jvgaia30@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
