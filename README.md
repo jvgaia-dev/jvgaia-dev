@@ -5,7 +5,6 @@
 Me chamo João Victor, tenho 21 anos e sou natural do Pará. Sejam bem-vindos ao meu GitHub! Aqui, compartilharei meu aprendizado por meio de projetos pessoais, demonstrando minha evolução contínua como desenvolvedor de software. Meu objetivo é explorar novas tecnologias, aprimorar minhas habilidades e contribuir para a comunidade com códigos e soluções inovadoras. Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada! 🚀.
 
 ### 💻 Tech Stacks
-
 <img 
     align="left" 
     alt="HTML"
@@ -65,8 +64,26 @@ Me chamo João Victor, tenho 21 anos e sou natural do Pará. Sejam bem-vindos ao
 <br/>
 <br/>
 
-## 📫 Onde me encontrar
+### 📊 GitHub Stats
 
+<p align="left">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=jvgaia-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvgaia-dev&layout=compact&theme=tokyonight"
+  />
+</p>
+
+<p align="left">
+  <img 
+    src="https://streak-stats.demolab.com?user=jvgaia-dev&theme=tokyonight&hide_border=false" 
+  />
+</p>
+
+## 📫 Onde me encontrar
 <p align="left">
   <a href="https://www.linkedin.com/in/jvgaia/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
