@@ -45,14 +45,7 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evoluç�
  width="30px" 
  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
-/> <img 
- align="left" 
- alt="AWS"
- title="AWS" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" 
-/> <img 
+/> src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /> <img align="left" alt="AWS" title="AWS" width="30px" style="padding-right: 10px;"<img 
  align="left" 
  alt="PostgreSQL" 
  title="PostgreSQL"
