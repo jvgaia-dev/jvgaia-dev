@@ -10,75 +10,94 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evoluç�
 
 ### 💻 Tech Stacks
 
-<img 
- align="left" 
- alt="JavaScript" 
- title="JavaScript"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"     
-/> <img 
- align="left" 
- alt="TypeScript"
- title="TypeScript"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/> <img 
- align="left" 
+<img
+ align="left"
  alt="Java"
- title="Java" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/> <img 
- align="left" 
+ title="Java"
+ width="48px"
+ style="padding-right: 10px;"
+ src="https://skillicons.dev/icons?i=java"
+/>
+
+<img
+ align="left"
  alt="Spring"
- title="Spring" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/> <img 
- align="left" 
+ title="Spring"
+ width="48px"
+ style="padding-right: 10px;"
+ src="https://skillicons.dev/icons?i=spring"
+/>
+
+<img
+ align="left"
  alt="Go"
- title="Go / Golang" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
-/> 
+ title="Go"
+ width="48px"
+ style="padding-right: 10px;"
+ src="https://skillicons.dev/icons?i=go"
+/>
 
 <img
  align="left"
  alt="AWS"
  title="AWS"
- width="30px"
+ width="48px"
  style="padding-right: 10px;"
  src="https://skillicons.dev/icons?i=aws"
 />
- 
- <img 
- align="left" 
- alt="PostgreSQL" 
- title="PostgreSQL"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/> 
 
-<img 
- align="left" 
- alt="MySQL" 
+<img
+ align="left"
+ alt="Docker"
+ title="Docker"
+ width="48px"
+ style="padding-right: 10px;"
+ src="https://skillicons.dev/icons?i=docker"
+/>
+
+<img
+ align="left"
+ alt="PostgreSQL"
+ title="PostgreSQL"
+ width="48px"
+ style="padding-right: 10px;"
+ src="https://skillicons.dev/icons?i=postgres"
+/>
+
+<img
+ align="left"
+ alt="MySQL"
  title="MySQL"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/> <img 
- align="left" 
- alt="Git" 
+ width="48px"
+ style="padding-right: 10px;"
+ src="https://skillicons.dev/icons?i=mysql"
+/>
+
+<img
+ align="left"
+ alt="TypeScript"
+ title="TypeScript"
+ width="48px"
+ style="padding-right: 10px;"
+ src="https://skillicons.dev/icons?i=ts"
+/>
+
+<img
+ align="left"
+ alt="JavaScript"
+ title="JavaScript"
+ width="48px"
+ style="padding-right: 10px;"
+ src="https://skillicons.dev/icons?i=js"
+/>
+
+<img
+ align="left"
+ alt="Git"
  title="Git"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+ width="48px"
+ style="padding-right: 10px;"
+ src="https://skillicons.dev/icons?i=git"
 />
 
 <br/>
