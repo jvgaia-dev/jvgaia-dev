@@ -1,6 +1,6 @@
 # Hello World! 🫡
 
-**`Desenvolvedor Back-End`**
+**`Software Engineer`**
 
 Me chamo João Victor, tenho 22 anos e sou natural do Pará. Seja bem-vindo ao meu GitHub!
 
