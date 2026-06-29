@@ -2,11 +2,14 @@
 
 **`Software Engineer`**
 
-Me chamo João Victor, tenho 22 anos e sou natural do Pará. Seja bem-vindo ao meu GitHub!
+My name is João Victor, I'm 22 years old, and I'm from Brazil. Welcome to my GitHub!
 
-Aqui compartilho minha jornada como desenvolvedor de software por meio de projetos pessoais, estudos e experimentações com diferentes tecnologias. Tenho foco em desenvolvimento Back-End e estou em constante evolução, buscando aprimorar minhas habilidades, construir soluções úteis e contribuir cada vez mais com a comunidade de tecnologia.
+Here, I share my journey as a software developer through personal projects, studies, and experiments with different technologies.
 
-Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução. 🚀
+I'm always looking to improve my technical skills, explore new technologies, and build scalable, well-structured, and high-quality solutions.
+
+Feel free to explore my repositories and follow my journey. 🚀
+
 
 ### 💻 Tech Stacks
 
