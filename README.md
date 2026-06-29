@@ -106,7 +106,7 @@ Feel free to explore my repositories and follow my journey. 🚀
 <br/>
 <br/>
 
-## 📫 Onde me encontrar
+## 📫 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jvgaia/">
