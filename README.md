@@ -8,7 +8,7 @@ Here, I share my journey as a software developer through personal projects, stud
 
 I'm always looking to improve my technical skills, explore new technologies, and build scalable, well-structured, and high-quality solutions.
 
-Feel free to explore my repositories and follow my journey. 🚀
+Feel free to explore my repositories and follow my journey. 
 
 
 ### 💻 Tech Stacks
